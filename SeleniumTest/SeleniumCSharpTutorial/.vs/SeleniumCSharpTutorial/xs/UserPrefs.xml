@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{985C053C-B69B-427A-93C8-383D21125E7A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharpFundas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpSeleniumFramework/TestData/TestData.json">
+    <Files>
+      <File FileName="CSharpSeleniumFramework/utilities/Base.cs" Line="56" Column="4" />
+      <File FileName="SeleniumLearning/FunctionalTest.cs" />
+      <File FileName="CSharpSeleniumFramework/Tests/E2EFlow.cs" Line="1" Column="1" />
+      <File FileName="CSharpSeleniumFramework/pageObjects/ConfirmationPage.cs" />
+      <File FileName="SeleniumLearning/AlertActionsAutoSuggestive.cs" />
+      <File FileName="CSharpSeleniumFramework/App.config" Line="1" Column="1" />
+      <File FileName="SeleniumLearning/SortWebTables.cs" />
+      <File FileName="SeleniumLearning/WindowHandles.cs" />
+      <File FileName="SeleniumLearning/E2ETest.cs" />
+      <File FileName="CSharpSeleniumFramework/TestData/TestData.json" Line="5" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumCSharpTutorial" expanded="True">
+            <Node name="CSharpFundas" expanded="True" />
+            <Node name="CSharpSeleniumFramework" expanded="True">
+              <Node name="pageObjects" expanded="True" />
+              <Node name="TestData" expanded="True">
+                <Node name="TestData.json" selected="True" />
+              </Node>
+              <Node name="Tests" expanded="True" />
+              <Node name="utilities" expanded="True" />
+            </Node>
+            <Node name="SeleniumLearning" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
